@@ -54,9 +54,15 @@
     font-size: 21px;
     line-height: normal;
     letter-spacing: 0.032px;
-    margin-top: 44px;
+    margin-top: 20px;
 }
 
 .btn-submit:hover {
     background: rgba(255, 153, 0, 0.60);
+}
+
+.login-footnote {
+    /* text-align: center; */
+    margin-left: 100px;
+    margin-right: 100px;
 }
