@@ -1,8 +1,8 @@
-**Ema John Shopping Cart - Enhanced Edition**
+# Ema John Shopping Cart - Enhanced Edition
 
 Explore the upgraded version of the Ema John Shopping Cart, where I've implemented several new features to elevate your online shopping experience.
 
-**Key Features:**
+### Key Features:
 
 1. **Authentication System:**
    - Seamlessly create a new account using the SignUp route.
@@ -19,7 +19,7 @@ Explore the upgraded version of the Ema John Shopping Cart, where I've implement
 4. **User-Friendly Settings Toggle:**
    - Empower users with the ability to customize their experience by showing or hiding details using a convenient toggle on the login page.
 
-**Technologies Used:**
+### Technologies Used:
 - **React:** The project is built using the React library, providing a robust and efficient user interface.
 - **React Router:** For seamless navigation and management of routes within the application.
 - **Vite:** A fast and efficient build tool for React applications, enhancing the development workflow.
